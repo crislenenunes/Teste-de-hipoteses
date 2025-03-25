@@ -64,8 +64,7 @@ git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.co
 cd seu-repositorio
 ```
 3. **Execute no Google Colab clicando no link abaixo**  
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)  
-*(Substitua pelo link do seu notebook no Colab depois de publicá-lo.)*
+[![Abrir no Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1qSE1yrzI0YR1tmw0pKKcW9_s95vbivXp#scrollTo=Z6jDiyLw3lii))](https://colab.research.google.com/)
 
 📊 **Exemplos de Saída**  
 Após a execução dos scripts, os resultados incluem:  
