@@ -57,14 +57,16 @@ Os exercícios do repositório realizam testes de hipóteses para médias e prop
 🚀 **Como executar o projeto**  
 1. **Clonar este repositório**  
 ```bash
-[git clone [[https://github.com/seu-usuario/seu-repositorio.git](https://github.com/crislenenunes/Teste-de-hipoteses)]
+Clonar este repositório:  
+git clone [https://github.com/crislenenunes/Teste-de-hipoteses](https://github.com/crislenenunes/Teste-de-hipoteses)
 ```
 2. **Acesse a pasta do projeto**  
 ```bash
 cd seu-repositorio
 ```
 3. **Execute no Google Colab clicando no link abaixo**  
-[![Abrir no Colab]https://colab.research.google.com/drive/1qSE1yrzI0YR1tmw0pKKcW9_s95vbivXp#scrollTo=Z6jDiyLw3lii
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qSE1yrzI0YR1tmw0pKKcW9_s95vbivXp#scrollTo=Z6jDiyLw3lii)
+
 
 📊 **Exemplos de Saída**  
 Após a execução dos scripts, os resultados incluem:  
